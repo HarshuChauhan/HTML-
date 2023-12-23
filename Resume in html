@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Project</title>
+</head>
+<body>
+<h1><center>RESUME</center></h1><br>
+<h2><b><i>Harshit Chauhan</i></b></h2>
+<img src="your_image.jpj"height="200"alt="profile">
+<ul><h2><b><big>Personal Details</big></h2></b>
+<li><b>Name</b> : Harshit Chauhan</li>
+<li><b>Father's Name</b> : Praval Pratap Singh</li>
+<li><b>Contact</b> : 9027xxxxxx</li>
+<li><b>Email</b> : harshitchauhanxxxx@gmail.com</li>
+<li><b>Address</b> : KP-1, Greater Noida , Uttar Pradesh</li>
+<li><b>Nationality</b> : Indian</li>
+<br>
+<h2><b><big>Educational Qualifactions</big></b></h2>
+<ul>
+    <li>I completed my 10th from <b>S.S. Group of Institutions, </b> Asergarhi, Agra road ,Mainpuri afilliated by CBSE . </li>
+    <li>I completed my 12th from <b>S.B.R.L. academy, </b> Kharpari, Agra road ,Mainpuri affiliated by CBSE. </li>
+    <li>Currently , I am persuing my Bachelors in technology with Computer Science from <b>IEC College of Engineering and Technology</b> affiliated by AKTU.</li>
+    <li>Score :<ul>
+    <li>10th : 88%</li>
+    <li>12th : 92%</li>
+    <li>Btech(1st sem) : 8.95 SGPA</li></ul>
+</li>
+<br>
+<h2><b><big> Skills</big></b></h2>
+<ul>
+    <li>Programming Languages : <ul>
+        <li>C Programming</li>
+        <li>Python Programming</li>
+    </li></ul>
+    <li>Languages : <ul>
+        <li>Hindi</li>
+        <li>English</li>
+    </li></ul>
+    <li>Basic Excel</li>
+    <li>HTML</li>
+    <li>Basic Digital Marketing Knowledge</li>
+    </ul><br>
+<h2><b><big>Work Experince</big></b></h2>
+<p>Fresher</p>
+<br>
+<h2><b><big>Interests</big></b></h2>
+<ul>
+    <li>Coding</li>
+    <li>Reading Historical Books</li>
+    <li>Writing Diary </li>
+    <li>Watching Science fictions and Ruler's Documentaries</li>
+    </ul>
+
+
+</body>
+</html>
