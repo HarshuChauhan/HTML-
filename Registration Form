@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<body bgcolor="lightskyblue">
+ <h1><center>IEC COLLEGE OF ENGINEERING & INSTITUTIONS</center></h1>   
+<H2><CENTRE>Student Registration Form</CENTRE></H2>
+<form>
+    <label>Name :</label>
+    <input type="text" name="Name" size="50"/><br><br>
+    <label>Father's Name :</label>
+    <input type="text" name="Father's Name" size="50"/><br><br>
+    <label>Mother's Name :</label>
+    <input type="text" name="Mother's Name" size="50"/><br><br>
+    <label>Date of birth :</label>
+    <input type="text" name="Date of Birth" size="10"/><br><br>
+    <label>
+    course :</label>
+    <select>
+        <option value="Course">Course</option>
+        <option value="BCA">BCA</option>
+        <option value="BBA">BBA</option>
+        <option value="B.Tech">B.Tech</option>
+        <option value="MBA">MBA</option>
+        <option value="MCA">MCA</option>
+        <option value="M.Tech">M.Tech</option>
+        <option value="B.Pharm">B.Pharm</option>
+        <option value="M.Pharm">M.Pharm</option>
+    </select> <br><br>
+    <label>
+        Gender :
+    </label><br>
+    <input type="radio" name="Male"/>Male<br>
+    <input type="radio" name="Female"/>Female<br>
+    <input type="radio" name="Other"/>Other<br><br>
+    <label>
+        Phone :
+    </label>
+    <input type="text" name="country code" value="+91" size="2"/>
+    <input type="text" name="phone" size="10"/><br><br>
+    Address <br>
+    <textarea cls="80" rows="5" value="address"></textarea>
+    <br><br>
+    Email <br>
+    <input type="email" id="email" name="email"/><br><br>
+    Password <br>
+    <input type="Password" id="pass" name="pass"><br><br>
+    re-type password : <br>
+    <input type="password" id="repass" name="repass"><br><br>
+    <input type="button" value="Submit"/>
+
+</form>
+</body>
+</html>
