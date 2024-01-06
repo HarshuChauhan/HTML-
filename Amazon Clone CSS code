@@ -145,7 +145,9 @@ span{
     font-size: 0.85rem;
     width: 97%;
     margin-bottom: 25px;
-
+}
+.hero-msg p:hover{
+    background-color: #809fc6;
 }
 .hero-msg a{
     color: #007185;
@@ -173,8 +175,11 @@ span{
     margin: 1rem;
 
 }
-.box1 a{
+.box a{
     color: #007185;
+}
+.box a:hover{
+    color: rgb(237, 53, 53);
 }
 .box2-img{
     background-image: url("clothes.webp");
@@ -232,10 +237,13 @@ footer{
     font-size: 1rem;
     font-weight: 700;
 }
+.foot-panel1:hover{
+    background-color: #424e5d;
+}
 .foot-panel2{
     background-color: #222F3D;
     color: white;
-    height: 200px;
+    height: 250px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -271,8 +279,15 @@ ul a{
     text-align: center;
 }
 .pages{
-    padding-top:25px;
+    padding-top:20px;
+}
+.pages a{
+    padding-left: 5px;
 }
 .copyright{
     padding-top: 5px;
+}
+.credits{
+    color:#febd68;
+    font-weight: 1000;
 }
